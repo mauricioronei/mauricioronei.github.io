@@ -1,0 +1,69 @@
+.education{
+    z-index: 1;
+}
+
+.education h1{
+    position: absolute;
+    width: 128.03px;
+    height: 33.74px;
+    left: 66.16px;
+    top: 1205.93px;
+    
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    
+    color: #837E9F;
+}
+
+.education h2{
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 20px;
+    
+    color: #837E9F;
+}
+
+.education h3{
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    
+    color: #837E9F;
+}
+
+.box5{
+    z-index: -1;
+    position: absolute;
+    width: 316px;
+    height: 600px;
+    left: 48px;
+    top: 1198px;
+    
+    background: #302F3D;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+
+}
+
+.courses{
+    position: absolute;
+    width: 250.62px;
+    height: 459px;
+    left: 62px;
+    top: 1251px;
+
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+
+    color: #837E9F;
+}

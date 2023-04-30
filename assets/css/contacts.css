@@ -1,0 +1,164 @@
+.contacts {
+    z-index: 1;
+}
+
+.box2 {
+    z-index: -1;
+    position: absolute;
+    width: 316px;
+    height: 279px;
+    left: 40px;
+    top: 349px;
+    
+    background: #302F3D;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+}
+
+.local {
+    position: absolute;
+    width: 35px;
+    height: 16px;
+    left: 124px;
+    top: 369px;
+    
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    
+    color: #837E9F;
+}
+
+.local_icon {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 80px;
+    top: 365px;
+    
+}
+
+.github {
+    position: absolute;
+    width: 87px;
+    height: 16px;
+    left: 124px;
+    top: 412px;
+    
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    
+    color: #837E9F;
+}
+
+.github_icon {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 80px;
+    top: 408px;
+}
+
+.linkedin {
+    position: absolute;
+    width: 87px;
+    height: 16px;
+    left: 124px;
+    top: 456px;
+    
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    
+    color: #837E9F;
+}
+
+.linkedin_icon {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 80px;
+    top: 452px;
+}
+
+.twitter {
+    position: absolute;
+    width: 87px;
+    height: 16px;
+    left: 124px;
+    top: 501px;
+    
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    
+    color: #837E9F;
+}
+
+.twitter_icon {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 80px;
+    top: 496px;
+}
+
+
+.site {
+    position: absolute;
+    width: 165px;
+    height: 15px;
+    left: 124px;
+    top: 545px;
+    
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+        
+    color: #837E9F;
+}
+
+.site_icon {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 80px;
+    top: 540px;
+}
+
+.mail {
+    position: absolute;
+    width: 153px;
+    height: 15px;
+    left: 124px;
+    top: 589px;
+    
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    
+    color: #837E9F;
+}
+
+.mail_icon {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 80px;
+    top: 584px;
+
+}
+

@@ -1,0 +1,49 @@
+.experiences{
+    z-index: 1;
+}
+
+.experiences h1{
+    position: absolute;
+    width: 141px;
+    height: 26px;
+    left: 57px;
+    top: 880px;
+
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #837E9F;
+}
+
+.box4{
+    z-index: -1;
+    position: absolute;
+    width: 316px;
+    height: 311px;
+    left: 40px;
+    top: 870px;
+    
+    background: #302F3D;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+}
+
+
+.jobs{
+    position: absolute;
+    width: 175px;
+    height: 198px;
+    left: 54px;
+    top: 923px;
+    
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    
+    color: #837E9F;
+}

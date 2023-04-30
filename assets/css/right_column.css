@@ -1,0 +1,170 @@
+aside h1{
+    margin-left: 20px;
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    color: #837E9F;  
+}
+
+aside p{
+    margin-left: 20px;
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #837E9F;
+}
+aside h2{
+    margin-left: 70px;
+    margin-top: 30px;
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+
+    color: #837E9F;
+}
+
+.box6{
+    z-index: -1;
+    position: absolute;
+    width: 1012px;
+    height: 86px;
+    left: 388px;
+    top: 40px;
+
+    background: #302F3D;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+}
+
+.seeall{
+    position: absolute;
+    width: 75.47px;
+    height: 18px;
+    left: 1292.63px;
+    top: 74px;
+
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+
+    color: #837E9F;
+}
+
+.box7{
+    z-index: -1;
+    position: absolute;
+    width: 508px;
+    height: 186px;
+    left: 388px;
+    top: 157px;
+    
+    background: #302F3D;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+}
+
+
+
+.folder1{
+    position: absolute;
+    left: 8.33%;
+    right: 8.33%;
+    top: 12.5%;
+    bottom: 12.5%;
+}
+
+.my_onix1{
+    position: absolute;
+    width: 79px;
+    height: 17px;
+    left: 455px;
+    top: 186px;
+    
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    
+    color: #837E9F;
+}
+
+.folder2{
+    position: absolute;
+    left: 8.33%;
+    right: 8.33%;
+    top: 12.5%;
+    bottom: 12.5%;
+}
+
+.my_onix2{
+    position: absolute;
+    width: 83.98px;
+    height: 17px;
+    left: 980.11px;
+    top: 188px;
+    
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    
+    color: #837E9F;
+}
+
+.box8{
+    z-index: -1;
+    position: absolute;
+    width: 490.05px;
+    height: 186px;
+    left: 909.95px;
+    top: 157px;
+    
+    background: #302F3D;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+}
+
+.box9{
+    z-index: -1;
+    position: absolute;
+    width: 1012px;
+    height: 86px;
+    left: 388px;
+    top: 373px;
+
+    background: #302F3D;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+}
+
+.box10{
+    z-index: -1;
+    position: absolute;
+    width: 1012px;
+    height: 351px;
+    left: 388px;
+    top: 489px;
+
+    background: #302F3D;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+}
+
+.photo_perfil{
+    position: absolute;
+    width: 128px;
+    height: 128px;
+    left: 416px;
+    top: 520px;
+
+}
